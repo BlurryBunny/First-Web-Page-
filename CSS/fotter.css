@@ -1,0 +1,24 @@
+section {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.copy{
+    font-size: 20px;
+    font-family: monospace
+}
+footer .contenedor {
+    display: flex;
+   flex-wrap: wrap;
+    justify-content: center;
+}
+.sociales{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.sociales a{
+    color: #333;
+    text-decoration: none;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:700');
+
+#carrossel {
+  font-family: 'Ubuntu', sans-serif; 
+    background: #333;
+    color: #FFF;
+    text-align: center;
+    outline-color: antiquewhite;
+    font-family: monospace;
+}
+#carrossel .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: monospace;
+    
+}
+
+
+#carrossel img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #FFF;
+    
+}
+
+.info-familia{
+    margin-top: auto;
+    margin: 15px;
+}
