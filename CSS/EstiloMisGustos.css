@@ -1,0 +1,31 @@
+@import url(menu.css);
+@import url(fotter.css);
+
+main{
+    background:background: rgb(46, 139 87,0.2);       
+}
+#Mascotas .contenedor{
+position: flex;
+text-align: left;
+position: center;
+display: block;
+border: 3px solid #df6666;
+background: rgb(46, 139 87,0.2);
+    
+}
+
+h1{
+    margin-right: 2%;
+    padding: 15px;
+    margin-bottom: 2%;
+    font-family:monospace;
+    font-size: 200%;
+}
+  
+
+p{
+    font-family: monospace;
+    margin-left: 2%;
+    margin-right:35%;
+    font-size: 120%;
+}

@@ -1,0 +1,57 @@
+#Quien .contenedor{
+margin-top: -2%;
+text-align: left;
+position: center;
+display: block;
+border: 3px solid #df6666;
+background: rgb(46, 139, 87,0.2);
+    
+}
+h2{
+    
+    margin-right: 2%;
+    padding: 15px;
+    margin-bottom: 2%;
+    font-family:monospace;
+    font-size: 200%;
+}
+
+#Quien img{
+    height: 230px;
+    width: 230px;
+    float: right;
+    margin-top: 4%;
+    margin-right: 5%;
+  
+}
+p{
+    margin-left: 2%;
+    margin-right:35%;
+    font-family:monospace;
+    font-size: 120%;
+}
+
+#Quien a{
+    margin-left: 2%;
+    margin-right: 2%;
+    display: block;
+    color: black;
+    padding: 6px ;
+    margin-top: 0;
+    border: 3px solid #FFF;
+    
+}
+
+@media screen and (max-width 768px){
+     #Quien img{
+    height: 230px;
+    width: 230px;
+    float: right;
+    margin-top: 50%;
+    margin-bottom: auto;
+    justify-content: center;
+}  
+}
+ 
+  
+
