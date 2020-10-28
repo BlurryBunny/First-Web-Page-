@@ -1,5 +1,8 @@
-# Hola mundo, mi nombre es Ulises Uriel!
+# Firts personal web site.
 
-En este repositorio se encuentra mi pagina personal, aun en proyecto de mejora.
+Here is my first persoal proyect using HTML and CSS. 
+Is so basic but if you want to do a simple proyect for your first semester maybe that will help you.
 
-El resultado final estara en github pages. 
+Nice vibes. 
+
+Ulises Uriel Dominguez Perez.
